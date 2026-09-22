@@ -23,15 +23,7 @@ export default function Home() {
         <h1>Sean Eric L. Rigor</h1>
 
         <p>
-          Hi! I'm Sean, an Information Technology student who enjoys exploring technology,
-          DJing, riding motorcycles, and listening to music. In my free time, I enjoy listening
-          to music, making song remixes, riding around the city, and discovering new music,
-          especially Classic rock, Emo, Punk and artists like MCR, FOB, and Bryan Adams.
-        </p>
-
-        <p>
-          My favorite food is usually anything sweet, spicy, and savory, which is something I
-          could never get tired of.
+          Hi! I'm Sean, an Information Technology student.
         </p>
 
         <p>
