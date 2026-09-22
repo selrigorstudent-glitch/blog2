@@ -52,10 +52,6 @@ export default function Home() {
           services also creates new security challenges. I want to develop the skills needed to
           understand these risks and help create safer digital environments.
         </p>
-
-        <p>
-          (This is a sample website - you’ll be building a site like this on our Next.js tutorial.)
-        </p>
       </main>
     </>
   )
